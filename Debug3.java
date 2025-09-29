@@ -29,6 +29,8 @@ class Debug3 { // Create the class
         } else {
             System.out.println("No applicable reduction on taxes found."); // print out, "No tax breaks for you ): "
         }
-
+/*I liked to comment line by line, so anyone with no knowledge of code can understand what each part of the code does. 
+ * I didn't use any multi-line comments, since I didn't see much use for it as each line could be explained clearly and concisely. 
+*/
     }
 }
